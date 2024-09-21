@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Caminhos","order":1,"path":"folders/Caminhos.yy",},
+    {"name":"Cenas","order":3,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sSerra","order":7,"path":"sprites/sSerra/sSerra.yy",},
+    {"name":"OFlor","order":1,"path":"objects/OFlor/OFlor.yy",},
+    {"name":"sPlayer","order":4,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"oEspinho","order":3,"path":"objects/oEspinho/oEspinho.yy",},
+    {"name":"sEspinho","order":6,"path":"sprites/sEspinho/sEspinho.yy",},
+    {"name":"sFlor","order":5,"path":"sprites/sFlor/sFlor.yy",},
+    {"name":"oSerra","order":2,"path":"objects/oSerra/oSerra.yy",},
+  ],
+}
